@@ -1,0 +1,23 @@
+Thursday, 05-May-2016 21:36:01 - restore started
+Thursday, 05-May-2016 21:36:01 - wp version     : 4.5.1
+Thursday, 05-May-2016 21:36:01 - php version    : 5.5.10
+Thursday, 05-May-2016 21:36:01 - mysql version  : 5.5.34
+Thursday, 05-May-2016 21:36:01 - memory limit   : 1024M
+Thursday, 05-May-2016 21:36:01 - execution time : 600
+Thursday, 05-May-2016 21:36:01 - mysql timeout  : 600
+Thursday, 05-May-2016 21:36:01 - socket timeout : 600
+Thursday, 05-May-2016 21:36:01 - file download started
+Thursday, 05-May-2016 21:36:28 - download finished, filesize - 16.42 MB
+Thursday, 05-May-2016 21:36:28 - extracting database using ziparchive
+Thursday, 05-May-2016 21:36:28 - database import started
+Thursday, 05-May-2016 21:36:29 - updating mysql query with current site's url - new query : "INSERT INTO wp_options VALUES("1","siteurl","http://cuidadoglobal.dev","yes")"
+Thursday, 05-May-2016 21:36:34 - mysql query failed. error : 1065 Query was empty - query : ""
+Thursday, 05-May-2016 21:36:34 - database import finished
+Thursday, 05-May-2016 21:36:34 - search and replace started
+Thursday, 05-May-2016 21:36:34 - there are 15 tables to scan
+Thursday, 05-May-2016 21:36:35 - search and replace finished
+Thursday, 05-May-2016 21:36:35 - extracting archive using ziparchive
+Thursday, 05-May-2016 21:36:37 - copying files..
+Thursday, 05-May-2016 21:36:39 - deleting temp directory..
+Thursday, 05-May-2016 21:36:41 - deleting downloaded zip file..
+Thursday, 05-May-2016 21:36:41 - restore finished
